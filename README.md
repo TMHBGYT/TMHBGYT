@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Project Big
+- 🔭 I’m currently working on Project Big and MagicDustry
 - 🌱 I’m currently learning .hjson modding in mindustry and a bit of Construct 2
 - 👯 I’m looking to collaborate on no one for now
 - 🤔 I’m looking for help with Catser and others
